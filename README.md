@@ -1,11 +1,13 @@
 Boeing Aviation Market Analysis
-Project Overview
+
+Project Overview:
 
 This project analyzes airline financial and operational data from 2010–2026 to understand trends in the commercial aviation industry and their potential implications for Boeing.
 
 The analysis focuses on airline revenue, passenger volume, operating margins, load factors, fleet size, regional performance, and the impact of COVID-19 on the aviation industry.
 
-Business Questions
+Business Questions:
+
 Which airlines generated the highest revenue?
 Which airlines carried the most passengers?
 How has airline revenue changed from 2010–2026?
@@ -16,7 +18,8 @@ Which airlines have the highest operating margins?
 Does fleet size relate to airline revenue?
 Does load factor affect airline profitability?
 Which business models perform better?
-Data
+
+Data:
 
 The main dataset used for this project is airline_financials.csv.
 
