@@ -83,7 +83,7 @@ Revenue Over Time
 COVID-19 Impact
 Operating Margin Trends
 
-Tableau Dashboard: See the dashboard images in the Tableau folder for examples (the interactive dashboards were pushed to tableau public and can be requested).
+Tableau Dashboard: See the dashboard images in the Main folder for examples (the interactive dashboards were pushed to tableau public and can be requested).
 
 **Key Findings**
 
