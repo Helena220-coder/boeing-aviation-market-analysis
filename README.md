@@ -128,8 +128,11 @@ Load factors sit at 83–86% in every non-COVID year across every region, so air
 **Tools Used**
 
 MySQL
+
 Tableau
+
 Canva
+
 Project Presentation
 
 The full project presentation is available in this repository as a PDF.
