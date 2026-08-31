@@ -127,18 +127,14 @@ Load factors sit at 83–86% in every non-COVID year across every region, so air
 
 **Tools Used**
 
-MySQL
-
-Tableau
-
-Canva
-
-Project Presentation
-
+MySQL<br>
+Tableau<br>
+Canva<br>
+Project Presentation<br>
 The full project presentation is available in this repository as a PDF.
 
 **Author**
 
-Helena Ehrari
-M.S. in Information Systems (MSIS), Expected '27
+Helena Ehrari<br>
+M.S. in Information Systems (MSIS), Expected '27<br>
 University of Washington – Foster School of Business
